@@ -1,5 +1,25 @@
 #  Bookstore REST API (Spring Boot + MySQL)
 
+
+
+![Java](https://img.shields.io/badge/Java-21-blue)
+![Spring Boot](https://img.shields.io/badge/Spring--Boot-3.2-green)
+![MySQL](https://img.shields.io/badge/Database-MySQL-yellow)
+![Postman](https://img.shields.io/badge/Tested_with-Postman-orange)
+![Swagger](https://img.shields.io/badge/API-Documented-informational)
+![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
+
+
+---
+
+##  Table of Contents
+- [Tech Stack](#tech-stack)
+- [How to Run](#how-to-run)
+- [API Endpoints](#api-endpoints)
+- [Testing](#testing)
+- [Database](#database)
+
+
 A complete backend RESTful API for managing books and authors using **Spring Boot**, **Spring Data JPA**, and **MySQL**. Includes full CRUD support, pagination, Postman collection, Swagger UI, and database export file.
 
 ---
@@ -133,3 +153,13 @@ db/bookstore_schema.sql
 }
 
 ```
+
+---
+
+# Bookstore REST API
+
+
+
+
+
+
